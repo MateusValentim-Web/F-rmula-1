@@ -40,7 +40,7 @@ document.addEventListener("DOMContentLoaded", function () {
         },
         {
             nome: "McLaren",
-            imagem: "./imagensLogo/Mclaren.png",
+            imagem: "./imagensLogo/McLaren.png",
             historia: "Uma das equipes mais tradicionais da F1, famosa por suas lutas com Ferrari e por seus lendários pilotos.",
             fundador: "Bruce McLaren",
             fundacao: "1963",
